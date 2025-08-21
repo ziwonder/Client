@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c6c91ff-13aa-4bc7-a8f8-8a0c52758715" name="Changes" comment="Feat: changed tests - coverage 70%" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Client" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../../.." value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-Dfile.encoding=UTF-8" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2v5Asrhan7PPqioW9GwM4RF3O0s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build Client.executor": "Run",
+    "Gradle.Client [:MainClient.main()].executor": "Run",
+    "Gradle.ExampleClient [:MainClient.main()].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/wonde/SE_git/SE1_12226850/Source/Client",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "File.Encoding",
+    "two.files.diff.last.used.file": "C:/Users/wonde/SE/SE1_12226850/Source/Client/src/main/java/ai/AIMovement.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c6c91ff-13aa-4bc7-a8f8-8a0c52758715" name="Changes" comment="" />
+      <created>1743424770999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743424770999</updated>
+      <workItem from="1743424772363" duration="4083000" />
+      <workItem from="1743433401924" duration="1432000" />
+      <workItem from="1743435799426" duration="472000" />
+      <workItem from="1743783386964" duration="485000" />
+      <workItem from="1743970886584" duration="4013000" />
+      <workItem from="1744024555800" duration="688000" />
+      <workItem from="1744033188397" duration="8277000" />
+      <workItem from="1744569722669" duration="11958000" />
+      <workItem from="1744584813213" duration="160000" />
+      <workItem from="1744647011768" duration="3417000" />
+      <workItem from="1744654649418" duration="7647000" />
+      <workItem from="1744726844292" duration="3748000" />
+      <workItem from="1744903973631" duration="500000" />
+      <workItem from="1745182273498" duration="3665000" />
+      <workItem from="1745236926312" duration="13145000" />
+      <workItem from="1745252484287" duration="7000" />
+      <workItem from="1745272329653" duration="37000" />
+      <workItem from="1745703360792" duration="278000" />
+      <workItem from="1745768053868" duration="6000" />
+      <workItem from="1746130909813" duration="7261000" />
+      <workItem from="1746180510593" duration="2073000" />
+      <workItem from="1746182663967" duration="130000" />
+      <workItem from="1746185468622" duration="3870000" />
+      <workItem from="1746193961689" duration="10928000" />
+      <workItem from="1746219673852" duration="91000" />
+      <workItem from="1746223236288" duration="7000" />
+      <workItem from="1746262189418" duration="380000" />
+      <workItem from="1746274836344" duration="5801000" />
+      <workItem from="1746355924728" duration="7000" />
+      <workItem from="1746467719174" duration="727000" />
+      <workItem from="1746468777674" duration="420000" />
+      <workItem from="1746470431372" duration="5561000" />
+      <workItem from="1746539996846" duration="2953000" />
+      <workItem from="1746632787402" duration="837000" />
+      <workItem from="1746644419695" duration="3039000" />
+      <workItem from="1746649511362" duration="1735000" />
+      <workItem from="1746710826405" duration="4679000" />
+      <workItem from="1746715999205" duration="7207000" />
+      <workItem from="1746731166376" duration="6239000" />
+      <workItem from="1746799969891" duration="7772000" />
+      <workItem from="1746825658746" duration="1253000" />
+      <workItem from="1747501269071" duration="3446000" />
+      <workItem from="1747512638237" duration="30000" />
+      <workItem from="1747595423451" duration="2168000" />
+      <workItem from="1747647147212" duration="2851000" />
+      <workItem from="1747683029084" duration="7339000" />
+      <workItem from="1747777179894" duration="457000" />
+      <workItem from="1747779284074" duration="1257000" />
+      <workItem from="1747840050106" duration="2577000" />
+      <workItem from="1747863375077" duration="1265000" />
+      <workItem from="1747910918868" duration="2590000" />
+      <workItem from="1747916807165" duration="10000" />
+      <workItem from="1747939804322" duration="4250000" />
+      <workItem from="1748082632420" duration="7000" />
+      <workItem from="1748096448268" duration="1761000" />
+      <workItem from="1748195333145" duration="7564000" />
+      <workItem from="1748361348423" duration="74000" />
+      <workItem from="1748458019568" duration="8335000" />
+      <workItem from="1748523779658" duration="12939000" />
+      <workItem from="1748548247388" duration="8212000" />
+      <workItem from="1748613844273" duration="2941000" />
+      <workItem from="1748616857281" duration="819000" />
+      <workItem from="1748617779866" duration="529000" />
+      <workItem from="1748623488687" duration="32000" />
+      <workItem from="1748636258501" duration="5225000" />
+      <workItem from="1748694729355" duration="3728000" />
+      <workItem from="1748815566143" duration="1994000" />
+      <workItem from="1748875416453" duration="16661000" />
+      <workItem from="1748956474758" duration="4549000" />
+      <workItem from="1748986034609" duration="2620000" />
+      <workItem from="1749045306287" duration="7932000" />
+      <workItem from="1749067711464" duration="8722000" />
+      <workItem from="1749125787472" duration="8690000" />
+      <workItem from="1749139657385" duration="112000" />
+      <workItem from="1749297052561" duration="11551000" />
+      <workItem from="1749311416991" duration="7000" />
+      <workItem from="1749388981972" duration="5128000" />
+      <workItem from="1749414572943" duration="4363000" />
+      <workItem from="1749459928626" duration="2361000" />
+      <workItem from="1749472799367" duration="5299000" />
+      <workItem from="1749478685269" duration="6929000" />
+      <workItem from="1749497790195" duration="6775000" />
+      <workItem from="1749554519050" duration="1611000" />
+      <workItem from="1749558415615" duration="5000" />
+      <workItem from="1749568840067" duration="3114000" />
+      <workItem from="1749579139375" duration="8724000" />
+      <workItem from="1749635209660" duration="6518000" />
+      <workItem from="1749653593092" duration="14868000" />
+      <workItem from="1749677235988" duration="8810000" />
+      <workItem from="1749689288473" duration="866000" />
+      <workItem from="1749719073516" duration="826000" />
+      <workItem from="1749730209042" duration="6141000" />
+      <workItem from="1749750120981" duration="984000" />
+      <workItem from="1749757410903" duration="3936000" />
+      <workItem from="1755792248349" duration="7000" />
+    </task>
+    <task id="LOCAL-00001" summary="add playerId in ClientNetwork">
+      <option name="closed" value="true" />
+      <created>1746180964917</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746180964917</updated>
+    </task>
+    <task id="LOCAL-00002" summary="prototype version 1">
+      <option name="closed" value="true" />
+      <created>1746471424814</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1746471424814</updated>
+    </task>
+    <task id="LOCAL-00003" summary="prototype version 1">
+      <option name="closed" value="true" />
+      <created>1746471503390</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1746471503390</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add GameState">
+      <option name="closed" value="true" />
+      <created>1746547052058</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1746547052058</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Change Request: 12% of the fields of Generated Map is Fort">
+      <option name="closed" value="true" />
+      <created>1747503349902</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1747503349902</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Splitting FullMap in two sides: EnemyPart and MyPart">
+      <option name="closed" value="true" />
+      <created>1747690658687</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1747690658687</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Refactoring finding target: find treasure on MyPart and EnemyFort on EnemyPart">
+      <option name="closed" value="true" />
+      <created>1747690750308</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1747690750308</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add: added simple logging to ClientNetwork">
+      <option name="closed" value="true" />
+      <created>1747913486641</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1747913486641</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Feat: changed logic in target finding (first mountains then grass)">
+      <option name="closed" value="true" />
+      <created>1747944086462</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1747944086462</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Feat: splitting AIMovement class into two classes: TargetFinder and WayFinder">
+      <option name="closed" value="true" />
+      <created>1748465903620</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1748465903620</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Feat: minor change in target strategy">
+      <option name="closed" value="true" />
+      <created>1748466594042</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1748466594042</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Feat: changed target strategy - find the mountain with the most grass near (won 2/3 AI)">
+      <option name="closed" value="true" />
+      <created>1748553639620</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1748553639620</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Add: added UTF-8 emojis in map display">
+      <option name="closed" value="true" />
+      <created>1748641661482</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1748641661482</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Add: simple MVC pattern added for two views: end game state and game process">
+      <option name="closed" value="true" />
+      <created>1748817430212</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1748817430212</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Fix: fixed bug in map splitting">
+      <option name="closed" value="true" />
+      <created>1748877040376</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1748877040376</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Refactoring of the map generation and validation">
+      <option name="closed" value="true" />
+      <created>1748898049107</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1748898049107</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Add: add the treasure mark on the map after collecting it on cli">
+      <option name="closed" value="true" />
+      <created>1748898111888</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1748898111889</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Refactoring: added IMap interface to print half map and full map in the same view GameProcessView">
+      <option name="closed" value="true" />
+      <created>1748958662921</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1748958662921</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Feat: added simple notification pattern">
+      <option name="closed" value="true" />
+      <created>1748986799158</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1748986799159</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Feat: added new technic-interna view for map the validation">
+      <option name="closed" value="true" />
+      <created>1748988585404</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1748988585404</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Feat: modified map validation view: notification pattern stores exceptions">
+      <option name="closed" value="true" />
+      <created>1749077772910</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1749077772910</updated>
+    </task>
+    <task id="LOCAL-00022" summary="target strategy that wins 2/3 AIs">
+      <option name="closed" value="true" />
+      <created>1749077828478</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1749077828478</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Feat: added validation of fort distribution">
+      <option name="closed" value="true" />
+      <created>1749297625510</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1749297625510</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Moving validation logic in separate validation package">
+      <option name="closed" value="true" />
+      <created>1749297664339</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1749297664339</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Moving validation logic in separate validation package + deleting Error class and some logs in Network">
+      <option name="closed" value="true" />
+      <created>1749297778522</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1749297778522</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Changed strategy of exploring the map: track enemy position after the 8th action - wins 3/3 AI">
+      <option name="closed" value="true" />
+      <created>1749300278298</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1749300278298</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Refactoring: null exclusion + cleaning the code">
+      <option name="closed" value="true" />
+      <created>1749311007016</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1749311007016</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Renaming classes and moving all exception in exception package">
+      <option name="closed" value="true" />
+      <created>1749461670598</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1749461670598</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Feat: added custom exceptions">
+      <option name="closed" value="true" />
+      <created>1749461786391</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1749461786391</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Refactoring: null removal and optional from instance variable">
+      <option name="closed" value="true" />
+      <created>1749461863375</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1749461863375</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Refactoring: clean comments + log configurations">
+      <option name="closed" value="true" />
+      <created>1749461903777</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1749461903777</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Refactoring: clean comments + log configurations">
+      <option name="closed" value="true" />
+      <created>1749584404795</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1749584404795</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Refactoring: splitting Map Validation class">
+      <option name="closed" value="true" />
+      <created>1749584537935</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1749584537935</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Add: start testing">
+      <option name="closed" value="true" />
+      <created>1749584568826</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1749584568826</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Add: added fort validator+ cleaning some unused imports in validation package">
+      <option name="closed" value="true" />
+      <created>1749640131211</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1749640131211</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Refactoring: adding default values + fixing some minor bugs">
+      <option name="closed" value="true" />
+      <created>1749687039052</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1749687039052</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Refactoring: pushing validation rules in map generation">
+      <option name="closed" value="true" />
+      <created>1749687114485</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1749687114485</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Add: added unit tests - 67% coverage">
+      <option name="closed" value="true" />
+      <created>1749687178952</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1749687178952</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Feat: changed tests - coverage 70%">
+      <option name="closed" value="true" />
+      <created>1749734416737</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1749734416737</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add: simple MVC pattern added for two views: end game state and game process" />
+    <MESSAGE value="Fix: fixed bug in map splitting" />
+    <MESSAGE value="Refactoring of the map generation and validation" />
+    <MESSAGE value="Add: add the treasure mark on the map after collecting it on cli" />
+    <MESSAGE value="Refactoring: added IMap interface to print half map and full map in the same view GameProcessView" />
+    <MESSAGE value="Feat: added simple notification pattern" />
+    <MESSAGE value="Feat: added new technic-interna view for map the validation" />
+    <MESSAGE value="Feat: modified map validation view: notification pattern stores exceptions" />
+    <MESSAGE value="target strategy that wins 2/3 AIs" />
+    <MESSAGE value="Feat: added validation of fort distribution" />
+    <MESSAGE value="Moving validation logic in separate validation package" />
+    <MESSAGE value="Moving validation logic in separate validation package + deleting Error class and some logs in Network" />
+    <MESSAGE value="Changed strategy of exploring the map: track enemy position after the 8th action - wins 3/3 AI" />
+    <MESSAGE value="Refactoring: null exclusion + cleaning the code" />
+    <MESSAGE value="Renaming classes and moving all exception in exception package" />
+    <MESSAGE value="Feat: added custom exceptions" />
+    <MESSAGE value="Refactoring: null removal and optional from instance variable" />
+    <MESSAGE value="Refactoring: clean comments + log configurations" />
+    <MESSAGE value="Refactoring: splitting Map Validation class" />
+    <MESSAGE value="Add: start testing" />
+    <MESSAGE value="Add: added fort validator+ cleaning some unused imports in validation package" />
+    <MESSAGE value="Refactoring: adding default values + fixing some minor bugs" />
+    <MESSAGE value="Refactoring: pushing validation rules in map generation" />
+    <MESSAGE value="Add: added unit tests - 67% coverage" />
+    <MESSAGE value="Feat: changed tests - coverage 70%" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: changed tests - coverage 70%" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.NoSuchElementException" package="java.util" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
